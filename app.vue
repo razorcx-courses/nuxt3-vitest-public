@@ -1,8 +1,8 @@
 <template>
   <div>
-    {{ word }}
-    {{ wuzzle }}
-    <!-- <NuxtWelcome /> -->
+    <h1>Nuxt3 / Vitest Minimal Starter</h1>
+    <pre>{{ word }}</pre>
+    <pre>{{ wuzzle }}</pre>
   </div>
 </template>
 
